@@ -1,3 +1,1 @@
-# ICS-project
-## for more information see the ICS Project Presentation
-it is scratch implementation of the image processing in c (without using any library)
+### This project deals with the object identification in an image using C with no libraries. For more details please refer to the given presentation. Test images in the BMP format are given in the images folder.
